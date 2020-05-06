@@ -9,7 +9,7 @@
 - Tiny (~1kb minified)
 - TypeScript ready
 - Framework agnostic (easily integrate `Interserver` with your favourite framework)
-- React companion package (`interserver-react`)
+- React companion package ([`interserver-react`](https://www.npmjs.com/package/interserver-react))
 
 ## Installation
 
