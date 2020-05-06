@@ -1,6 +1,6 @@
 {
   "name": "interserver",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "IntersectionObserver simplified",
   "main": "dist/interserver.umd.js",
   "unpkg": "dist/interserver.umd.min.js",
