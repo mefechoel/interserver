@@ -6,15 +6,24 @@
   "unpkg": "dist/interserver.umd.min.js",
   "module": "dist/interserver.module.mjs",
   "types": "dist/interserver.d.ts",
-  "author": "mefechoel <michel.strelow97@gmail.com>",
+  "author": "Michel Strelow @mefechoel",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mefechoel/interserver.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mefechoel/interserver/issues"
+  },
+  "homepage": "https://github.com/mefechoel/interserver#readme",
   "files": [
     "dist"
   ],
   "keywords": [
     "IntersectionObserver",
     "Intersection",
-    "Observer"
+    "Observer",
+    "typescript"
   ],
   "scripts": {
     "build": "rollup -c"
