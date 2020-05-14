@@ -25,6 +25,7 @@
     "Observer",
     "typescript"
   ],
+  "sideEffects": false,
   "scripts": {
     "build": "rollup -c"
   },
